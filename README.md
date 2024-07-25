@@ -17,7 +17,7 @@ Users should be able to view the optimal layout for the site depending on their 
 
 ## Screenshot
 
-![](/Screenshot.jpg)
+![](./images/Screenshot.jpg)
 
 ## Links
 
