@@ -21,7 +21,7 @@ Users should be able to view the optimal layout for the site depending on their 
 
 ## Links
 
-Testimonials Grid Section Page(https://axinitm.github.io/FM-Testimonials-grid-section/)
+[Testimonials Grid Section Page](https://axinitm.github.io/FM-Testimonials-grid-section/)
 
 ## Built with
 
