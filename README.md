@@ -31,4 +31,8 @@ Users should be able to view the optimal layout for the site depending on their 
 
 ## Author
 
+- Website - [Andrei Martinenko](https://www.frontender.biz)
+- Github - [@AxinitM](https://github.com/AxinitM)
+- Frontend Mentor - [@AxinitM](https://www.frontendmentor.io/profile/AxinitM)
+
 
